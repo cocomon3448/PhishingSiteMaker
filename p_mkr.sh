@@ -208,13 +208,13 @@ fi
 
 banner() {
 
-printf "     \e[101m\e[1;77m::                    *Phishing Site Maker*.                       ::\e[0m\n"
+printf "     \e[101m\e[1;77m::                    *PSM*.                       ::\e[0m\n"
 printf "\n"
-printf "     \e[101m\e[1;77m:: [NOTICE]Developer assume no liability and are not    ::\e[0m\n"
-printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by Phishing Site Maker.  ::\e[0m\n"
-printf "     \e[101m\e[1;77m:: Only use for educational purporses. Or give a tricks to your friends.  ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: Disclaimer: Developer assume no liability and are not    ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by PSM.  ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: Only use for educational purporses                      ::\e[0m\n"
 printf "\n"
-printf "     \e[101m\e[1;77m::          Made by Min Seok Cho           ::\e[0m\n"
+printf "     \e[101m\e[1;77m::          MIN SEOK CHO           ::\e[0m\n"
 printf "\n"
 }
 
