@@ -208,13 +208,13 @@ fi
 
 banner() {
 
-printf "     \e[101m\e[1;77m::                    *PSM*.                       ::\e[0m\n"
+printf "     \e[101m\e[1;77m::                          *PSM*.                          ::\e[0m\n"
 printf "\n"
 printf "     \e[101m\e[1;77m:: Disclaimer: Developer assume no liability and are not    ::\e[0m\n"
-printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by PSM.  ::\e[0m\n"
-printf "     \e[101m\e[1;77m:: Only use for educational purporses                      ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: responsible for any misuse or damage caused by PSM.      ::\e[0m\n"
+printf "     \e[101m\e[1;77m:: Only use for educational purporses                       ::\e[0m\n"
 printf "\n"
-printf "     \e[101m\e[1;77m::          MIN SEOK CHO           ::\e[0m\n"
+printf "     \e[101m\e[1;77m::                       MIN SEOK CHO                       ::\e[0m\n"
 printf "\n"
 }
 
